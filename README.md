@@ -11,11 +11,11 @@ PyTorch implementation for controllable person image synthesis.
 
 
 **Component Attribute Transfer**
-<img src="https://menyifang.github.io/projects/ADGAN/ADGAN_files/attributes.gif" width="800px"/>
+<img src="https://menyifang.github.io/projects/ADGAN/ADGAN_files/attributes.gif" width="100px"/>
 
 
 **Pose Transfer**
-<img src="https://menyifang.github.io/projects/ADGAN/ADGAN_files/pose.gif" width="800px"/>
+<img src="https://menyifang.github.io/projects/ADGAN/ADGAN_files/pose.gif" width="100px"/>
 
 
 ## Requirement
