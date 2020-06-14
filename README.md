@@ -11,11 +11,14 @@ PyTorch implementation for controllable person image synthesis.
 
 
 **Component Attribute Transfer**
+<p float="center">
 <img src="gif/attributes.gif" width="800px"/>
-
+</p>
 
 **Pose Transfer**
+<p float="center">
 <img src="gif/pose.gif" width="800px"/>
+</p>
 
 
 ## Requirement
