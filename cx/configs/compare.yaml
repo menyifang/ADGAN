@@ -1,0 +1,38 @@
+---
+data_format:
+  keys: [SRC, GT, Ours1000, vunet, PATN, DeformGan, DIPG, PG2]
+  img_height: 256
+  img_width: 176
+  data_begin_index: 2
+
+experiments:
+  metrics:
+    [SSIM, L1D, DS, IS, PCKh, CX, CX1]
+
+experiments_SSIM:
+  metrics:
+    [SSIM]
+
+experiments_L1D:
+  metrics:
+    [L1D]
+
+experiments_DS:
+  metrics:
+    [DS]
+
+experiments_IS:
+  metrics:
+    [IS]
+
+experiments_PCKh:
+  metrics:
+    [PCKh]
+
+experiments_CX:
+  metrics:
+    [CX]
+
+experiments_CX1:
+  metrics:
+    [CX1]

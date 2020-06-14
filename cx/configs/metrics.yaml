@@ -1,0 +1,15 @@
+metrics:
+  SSIM:
+    keys: [GT]
+  L1D:
+    keys: [GT]
+  DS:
+    keys: [GT]
+  IS:
+    keys: []
+  PCKh:
+    keys: [GT]
+  CX:
+    keys: [SRC]
+  CX1:
+    keys: [GT]
