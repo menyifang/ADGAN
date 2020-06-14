@@ -106,11 +106,6 @@ python2 compute_coordinates.py
 python2 tool/create_pairs_dataset.py
 ```
 
-<!-- #### Pose Estimation
-- Download the pose estimator from [here](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation).
-- Launch ```python compute_cordinates.py``` to get the pose estimation for both datasets.
-
-
 ### Train a model
 
 ```bash
