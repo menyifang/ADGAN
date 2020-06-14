@@ -5,17 +5,17 @@
 PyTorch implementation for controllable person image synthesis.
 
 [Controllable Person Image Synthesis with Attribute-Decomposed GAN](https://menyifang.github.io/projects/ADGAN/ADGAN.html)  
- [Yifang Men](https://menyifang.github.io/),  [Yiming Mao](https://mtroym.github.io/), [Yuning Jiang](http://web.mit.edu/phillipi/), [Wei-Ying Ma](https://people.eecs.berkeley.edu/~efros/), [Zhouhui Lian](http://www.icst.pku.edu.cn/zlian/)
- Peking University & ByteDance AI Lab  
+ [Yifang Men](https://menyifang.github.io/),  [Yiming Mao](https://mtroym.github.io/), [Yuning Jiang](https://yuningjiang.github.io/), [Wei-Ying Ma](https://scholar.google.com/citations?user=SToCbu8AAAAJ&hl=en), [Zhouhui Lian](http://www.icst.pku.edu.cn/zlian/)
+ Peking University & ByteDance AI Lab
  **CVPR 2020(Oral)**.
 
 
 **Component Attribute Transfer**
-<img src="https://menyifang.github.io/projects/ADGAN/ADGAN_files/attributes.gif" width="100px"/>
+<img src="gif/attributes.gif" width="800px"/>
 
 
 **Pose Transfer**
-<img src="https://menyifang.github.io/projects/ADGAN/ADGAN_files/pose.gif" width="100px"/>
+<img src="gif/pose.gif" width="800px"/>
 
 
 ## Requirement
@@ -62,6 +62,8 @@ The dataset structure is recommended as:
 |   +—fashion-resize-annotation-pairs-test.csv
 |   +—train.lst
 |   +—test.lst
+|   +—vgg19-dcbb9e9d.pth
+|   +—vgg_conv.pth
 ...
 ```
 
