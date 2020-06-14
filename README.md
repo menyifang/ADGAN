@@ -11,10 +11,10 @@ PyTorch implementation for controllable person image synthesis.
 
 
 **Component Attribute Transfer**
-<img src=“https://menyifang.github.io/projects/ADGAN/ADGAN_files/attributes.gif” width="1000px"/>
+<img src="https://menyifang.github.io/projects/ADGAN/ADGAN_files/attributes.gif” width="1000px"/>
 
 ** Pose Transfer**
-<img src=“https://menyifang.github.io/projects/ADGAN/ADGAN_files/pose.gif” width="1000px"/>
+<img src="https://menyifang.github.io/projects/ADGAN/ADGAN_files/pose.gif” width="1000px"/>
 
 ## Requirement
 * python 3
@@ -60,6 +60,8 @@ The dataset structure is recommended as:
 |   +—fashion-resize-annotation-pairs-test.csv
 |   +—train.lst
 |   +—test.lst
+...
+```
 
 1. Person images
 
@@ -80,7 +82,7 @@ python tool/generate_pose_map_fashion.py
 ```
 
 3. Segmentation files
-- Extract human segmentation results from existing human parser (e.g. Look into Person) and merge into 8 categories. Our segmentation results are provided in Google Drive](https://drive.google.com/drive/u/0/folders/1bOjuIEp9KuV2wGk8XgCm35BNAfwZemrv), including ‘semantic_merge2’ and ‘semantic_merge3’ in different merge manner. Put one of them under the ```deepfashion``` directory.
+- Extract human segmentation results from existing human parser (e.g. Look into Person) and merge into 8 categories. Our segmentation results are provided in [Google Drive](https://drive.google.com/drive/u/0/folders/1bOjuIEp9KuV2wGk8XgCm35BNAfwZemrv), including ‘semantic_merge2’ and ‘semantic_merge3’ in different merge manner. Put one of them under the ```deepfashion``` directory.
 
 
 
