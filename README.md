@@ -6,7 +6,7 @@ PyTorch implementation for controllable person image synthesis.
 
 [Controllable Person Image Synthesis with Attribute-Decomposed GAN](https://menyifang.github.io/projects/ADGAN/ADGAN.html)  
  [Yifang Men](https://menyifang.github.io/),  [Yiming Mao](https://mtroym.github.io/), [Yuning Jiang](https://yuningjiang.github.io/), [Wei-Ying Ma](https://scholar.google.com/citations?user=SToCbu8AAAAJ&hl=en), [Zhouhui Lian](http://www.icst.pku.edu.cn/zlian/)
- Peking University & ByteDance AI Lab  
+ Peking University & ByteDance AI Lab
  **CVPR 2020(Oral)**.
 
 
