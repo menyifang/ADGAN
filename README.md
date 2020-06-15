@@ -156,7 +156,7 @@ If you use this code for your research, please cite our paper:
 @inproceedings{men2020controllable,
   title={Controllable Person Image Synthesis with Attribute-Decomposed GAN},
   author={Men, Yifang and Mao, Yiming and Jiang, Yuning and Ma, Wei-Ying and Lian, Zhouhui},
-  booktitle={Computer Vision and Pattern Recognition (CVPR), 2017 IEEE Conference on},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2020 IEEE Conference on},
   year={2020}
 }
 
