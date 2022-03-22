@@ -19,6 +19,7 @@ PyTorch implementation for controllable person image synthesis.
 ## Updates
    -(03/22/2022)ADGAN++, an extension vision with improved methods and more applications will be released soon.
 
+## Demo
 **Component Attribute Transfer**
 <p float="center">
 <img src="gif/attributes.gif" width="800px"/>
