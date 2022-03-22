@@ -4,11 +4,20 @@
 
 PyTorch implementation for controllable person image synthesis.
 
-[Controllable Person Image Synthesis with Attribute-Decomposed GAN](https://menyifang.github.io/projects/ADGAN/ADGAN.html)  
- [Yifang Men](https://menyifang.github.io/),  [Yiming Mao](https://mtroym.github.io/), [Yuning Jiang](https://yuningjiang.github.io/), [Wei-Ying Ma](https://scholar.google.com/citations?user=SToCbu8AAAAJ&hl=en), [Zhouhui Lian](http://www.icst.pku.edu.cn/zlian/),
- Peking University & ByteDance AI Lab,
- **CVPR 2020(Oral)**.
 
+> [**ADGAN: Controllable Person Image Synthesis with Attribute-Decomposed GAN**](https://arxiv.org/abs/2003.12267),            
+> Yifang Men, Yiming Mao, Yuning Jiang, Wei-ying Ma, Zhouhui Lian    
+> In: Proc. Computer Vision and Pattern Recognition (**CVPR Oral**), 2020 
+> *arXiv preprint ([arXiv 2003.12267](https://arxiv.org/abs/2003.12267))* 
+
+
+> [**ADGAN++: Controllable Image Synthesis with Attribute-Decomposed GAN**](https://arxiv.org/abs/2003.12267),            
+> Guo Pu*, Yifang Men*, Yiming Mao, Yuning Jiang, Wei-ying Ma, Zhouhui Lian     
+> In: IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022. 
+> *arXiv preprint (comming soon)* 
+
+## Updates
+   -(03/22/2022)ADGAN++, an extension vision with improved methods and more applications will be released soon.
 
 **Component Attribute Transfer**
 <p float="center">
@@ -164,6 +173,12 @@ If you use this code for your research, please cite our paper:
   year={2020}
 }
 
+@inproceedings{pu2022controllable,
+  title={Controllable Image Synthesis with Attribute-Decomposed GAN},
+  author={Pu, Guo and Men, Yifang and Mao, Yiming and Jiang, Yuning and Ma, Wei-Ying and Lian, Zhouhui},
+  booktitle={Pattern Analysis and Machine Intelligence (TPAMI), 2022 IEEE Transactions on},
+  year={2022}
+}
 
 ```
 
