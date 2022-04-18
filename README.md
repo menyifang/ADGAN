@@ -15,7 +15,7 @@ PyTorch implementation for controllable person image synthesis.
 > Guo Pu*, Yifang Men*, Yiming Mao, Yuning Jiang, Wei-ying Ma, Zhouhui Lian     
 > In: IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022. 
 > *arXiv preprint (comming soon)* 
-> *[code](https://github.com/TrickyGo/ADGAN-plus-plus))* 
+> [Code](https://github.com/TrickyGo/ADGAN-plus-plus)
 
 ## Updates
    -(03/22/2022)ADGAN++, an extension vision with improved methods and more applications will be released soon.
