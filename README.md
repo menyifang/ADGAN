@@ -11,10 +11,11 @@ PyTorch implementation for controllable person image synthesis.
 > *arXiv preprint ([arXiv 2003.12267](https://arxiv.org/abs/2003.12267))* 
 
 
-> [**ADGAN++: Controllable Image Synthesis with Attribute-Decomposed GAN**](https://github.com/TrickyGo/ADGAN-plus-plus),            
+> [**ADGAN++: Controllable Image Synthesis with Attribute-Decomposed GAN**](https://arxiv.org/abs/2003.12267),            
 > Guo Pu*, Yifang Men*, Yiming Mao, Yuning Jiang, Wei-ying Ma, Zhouhui Lian     
 > In: IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022. 
 > *arXiv preprint (comming soon)* 
+> *[code](https://github.com/TrickyGo/ADGAN-plus-plus))* 
 
 ## Updates
    -(03/22/2022)ADGAN++, an extension vision with improved methods and more applications will be released soon.
